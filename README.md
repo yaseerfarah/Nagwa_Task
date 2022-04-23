@@ -16,8 +16,4 @@
 # Screenshots
 
 
-![Screenshot_1650733417](https://user-images.githubusercontent.com/13303358/164933713-a2d7ae52-ff97-41de-b86e-e05a77da9344.png)
-
-![Screenshot_1650733422](https://user-images.githubusercontent.com/13303358/164933777-cccd09f1-6ccf-455b-9f2a-2a6eda590dd0.png)
-
-![Screenshot_1650733428](https://user-images.githubusercontent.com/13303358/164933801-dffd6b87-6522-4fc2-9242-d867e33a990d.png)
+<img src="Images/image.png" width="300" height="600">   <img src="Images/image2.png" width="300" height="600">.  <img src="Images/image3.png" width="300" height="600">
